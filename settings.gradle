@@ -1,0 +1,3 @@
+rootProject.name = "PetSave"
+include ':app'
+include ':logging'
