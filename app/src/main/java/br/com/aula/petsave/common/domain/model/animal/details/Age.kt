@@ -35,6 +35,7 @@
 package br.com.aula.petsave.common.domain.model.animal.details
 
 enum class Age {
+
   UNKNOWN,
   BABY,
   YOUNG,
