@@ -28,8 +28,6 @@ class SearchAnimals @Inject constructor(
         val age = ageSubject.replaceUIEmptyValue()
         val type = typeSubject.replaceUIEmptyValue()
 
-        Log.d("APK", "    Query   : " + query)
-
         // 1 - combineLatest joins the lastes result of each stream,
         // using the combining function.
 
@@ -44,7 +42,6 @@ class SearchAnimals @Inject constructor(
             .toFlowable(BackpressureStrategy.LATEST)
             .switchMap {
                     parameters: SearchParameters ->
-                Log.d("APK", "    parameters   : " + parameters)
                 animalRepository.searchCachedAnimalsBy(parameters)
             }
     }

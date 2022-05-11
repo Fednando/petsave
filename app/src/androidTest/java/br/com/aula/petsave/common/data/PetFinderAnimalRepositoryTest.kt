@@ -1,6 +1,5 @@
 package br.com.aula.petsave.common.data
 
-import android.util.Log
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import br.com.aula.petsave.common.data.api.PetFinderApi
 import br.com.aula.petsave.common.data.api.model.mappers.ApiAnimalMapper
@@ -27,9 +26,6 @@ import org.junit.Rule
 import org.junit.Test
 import org.threeten.bp.Instant
 import retrofit2.Retrofit
-import java.time.LocalDate
-import java.time.LocalTime
-import java.time.format.DateTimeFormatter
 import javax.inject.Inject
 
 @HiltAndroidTest

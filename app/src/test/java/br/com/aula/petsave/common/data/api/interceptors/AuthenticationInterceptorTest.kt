@@ -4,7 +4,6 @@ import android.os.Build
 import br.com.aula.petsave.common.data.api.ApiConstants
 import br.com.aula.petsave.common.data.api.ApiParameters
 import br.com.aula.petsave.common.data.preferences.Preferences
-import com.google.common.truth.Truth
 import com.google.common.truth.Truth.assertThat
 import com.raywenderlich.android.petsave.common.data.api.utils.JsonReader
 import okhttp3.OkHttpClient
