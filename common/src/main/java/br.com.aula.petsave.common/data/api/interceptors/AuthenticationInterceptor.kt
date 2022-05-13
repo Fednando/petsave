@@ -1,0 +1,108 @@
+package br.com.aula.petsave.common.data.api.interceptors
+
+import br.com.aula.petsave.common.data.api.model.ApiToken
+import br.com.aula.petsave.common.data.preferences.Preferences
+import br.com.aula.petsave.common.data.api.ApiConstants
+import br.com.aula.petsave.common.data.api.ApiConstants.AUTH_ENDPOINT
+import br.com.aula.petsave.common.data.api.ApiParameters.AUTH_HEADER
+import br.com.aula.petsave.common.data.api.ApiParameters.CLIENT_ID
+import br.com.aula.petsave.common.data.api.ApiParameters.CLIENT_SECRET
+import br.com.aula.petsave.common.data.api.ApiParameters.GRANT_TYPE_KEY
+import br.com.aula.petsave.common.data.api.ApiParameters.GRANT_TYPE_VALUE
+import br.com.aula.petsave.common.data.api.ApiParameters.TOKEN_TYPE
+import com.squareup.moshi.Moshi
+import okhttp3.*
+import javax.inject.Inject
+import org.threeten.bp.Instant
+
+class AuthenticationInterceptor @Inject constructor(
+    private val preferences: Preferences
+): Interceptor {
+
+  companion object {
+    const val UNAUTHORIZED = 401
+  }
+
+  override fun intercept(chain: Interceptor.Chain): Response {
+    val token = preferences.getToken()
+      val tokenExpirationTime = Instant.ofEpochSecond(preferences.getTokenExpirationTime())
+
+      val request = chain.request()
+
+      val interceptorRequest: Request
+
+      if (tokenExpirationTime.isAfter(Instant.now())){
+          interceptorRequest = chain.createAuthenticatedRequest(token)
+      }else {
+          val tokenRefreshResponse = chain.refreshToken()
+
+          interceptorRequest = if (tokenRefreshResponse.isSuccessful){
+              val newToken = mapToken(tokenRefreshResponse)
+              if(newToken.isValid()) {
+                  storeNewToken(newToken)
+                  chain.createAuthenticatedRequest(newToken.accessToken!!)
+              }else{
+                  request
+              }
+          }else{
+              request
+          }
+      }
+
+    return chain.proceedDeletingTokenIfUnauthorized(interceptorRequest)
+  }
+
+  private fun Interceptor.Chain.createAuthenticatedRequest(token: String): Request {
+    return request()
+        .newBuilder()
+        .addHeader(AUTH_HEADER, TOKEN_TYPE + token)
+        .build()
+  }
+
+  private fun Interceptor.Chain.refreshToken(): Response {
+    val url = request()
+        .url
+        .newBuilder(AUTH_ENDPOINT)!!
+        .build()
+
+    val body = FormBody.Builder()
+        .add(GRANT_TYPE_KEY, GRANT_TYPE_VALUE)
+        .add(CLIENT_ID, ApiConstants.KEY)
+        .add(CLIENT_SECRET, ApiConstants.SECRET)
+        .build()
+
+    val tokenRefresh = request()
+        .newBuilder()
+        .post(body)
+        .url(url)
+        .build()
+
+    return proceedDeletingTokenIfUnauthorized(tokenRefresh)
+  }
+
+  private fun Interceptor.Chain.proceedDeletingTokenIfUnauthorized(request: Request): Response {
+    val response = proceed(request)
+
+    if (response.code == UNAUTHORIZED) {
+      preferences.deleteTokenInfo()
+    }
+
+    return response
+  }
+
+  private fun mapToken(tokenRefreshResponse: Response): ApiToken {
+    val moshi = Moshi.Builder().build()
+    val tokenAdapter = moshi.adapter<ApiToken>(ApiToken::class.java)
+    val responseBody = tokenRefreshResponse.body!! // if successful, this should be good :]
+
+    return tokenAdapter.fromJson(responseBody.string()) ?: ApiToken.INVALID
+  }
+
+  private fun storeNewToken(apiToken: ApiToken) {
+    with(preferences) {
+      putTokenType(apiToken.tokenType!!)
+      putTokenExpirationTime(apiToken.expiresAt)
+      putToken(apiToken.accessToken!!)
+    }
+  }
+}

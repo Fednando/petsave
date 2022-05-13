@@ -18,7 +18,7 @@
 
         <!-- Main Activity -->
         <activity
-            android:name="br.com.aula.petsave.common.presentation.MainActivity"
+            android:name="br.com.aula.petsave.main.presentation.MainActivity"
             android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
