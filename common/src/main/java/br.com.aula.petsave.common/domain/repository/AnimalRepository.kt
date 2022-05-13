@@ -7,6 +7,7 @@ import br.com.aula.petsave.common.domain.model.pagination.PaginatedAnimals
 import br.com.aula.petsave.common.domain.model.search.SearchParameters
 import br.com.aula.petsave.common.domain.model.search.SearchResults
 import io.reactivex.Flowable
+import java.util.*
 
 interface AnimalRepository {
     fun getAnimals(): Flowable<List<Animal>>

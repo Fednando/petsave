@@ -107,10 +107,14 @@ class PetFinderAnimalRepository @Inject constructor(
     }
 
     override suspend fun storeOnboardingData(postcode: String, distance: Int) {
-
+        with (preferences) {
+            putPostcode(postcode)
+            putMaxDistanceAllowedToGetAnimals(distance)
+        }
     }
 
     override suspend fun onboardingIsComplete(): Boolean {
-        return true
+        return preferences.getPostcode().isNotEmpty() &&
+                preferences.getMaxDistanceAllowedToGetAnimals() > 0
     }
 }
