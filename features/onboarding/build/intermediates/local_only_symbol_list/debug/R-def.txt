@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+id max_distance_input_text
+id max_distance_text_input_layout
+id nav_onboarding
+id onboardingFragment
+id onboarding_submit_button
+id onboarding_welcome_text_view
+id postcode_input_text
+id postcode_text_input_layout
+layout fragment_onboarding
+navigation nav_onboarding
+string distance_error
+string distance_error_cannot_be_zero
+string distance_helper_text
+string max_distance_miles
+string no_error
+string onboarding_screen_label
+string onboarding_welcome_text
+string postcode
+string postcode_error
+string postcode_helper_text
+string submit_button

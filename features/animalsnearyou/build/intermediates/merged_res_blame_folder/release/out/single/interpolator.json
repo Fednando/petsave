@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator/mtrl_linear.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/interpolator/fast_out_slow_in.xml"
+    }
+]

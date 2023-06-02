@@ -39,6 +39,7 @@ import br.com.aula.petsave.common.data.api.PetFinderApi
 import br.com.aula.petsave.common.data.api.interceptors.AuthenticationInterceptor
 import br.com.aula.petsave.common.data.api.interceptors.LoggingInterceptor
 import br.com.aula.petsave.common.data.api.interceptors.NetworkStatusInterceptor
+import com.facebook.stetho.okhttp3.StethoInterceptor
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -78,6 +79,7 @@ object ApiModule {
       networkStatusInterceptor: NetworkStatusInterceptor,
       authenticationInterceptor: AuthenticationInterceptor): OkHttpClient {
     return OkHttpClient.Builder()
+        .addNetworkInterceptor(StethoInterceptor())
         .addInterceptor(networkStatusInterceptor)
         .addInterceptor(authenticationInterceptor)
         .addInterceptor(httpLoggingInterceptor)

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

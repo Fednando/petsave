@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.0.0" type="conditional_incidents">
+
+    <incident
+        id="MissingPermission"
+        severity="error"
+        message="">
+        <fix-data missing="android.permission.ACCESS_NETWORK_STATE" message="Missing permissions required by ConnectivityManager.getActiveNetworkInfo: %1$s" lastApi="2147483647"/>
+        <location
+            file="$COMMON/src/main/java/br.com.aula.petsave.common/data/api/ConnectionManager.kt"
+            line="47"
+            column="41"
+            startOffset="2355"
+            endLine="47"
+            endColumn="66"
+            endOffset="2380"/>
+        <map>
+            <entry
+                name="requirement"
+                string="android.permission.ACCESS_NETWORK_STATE"/>
+            <entry
+                name="message"
+                string="Missing permissions required by ConnectivityManager.getActiveNetworkInfo: %1$s"/>
+        </map>
+    </incident>
+
+</incidents>

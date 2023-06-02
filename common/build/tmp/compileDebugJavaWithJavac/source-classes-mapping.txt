@@ -1,0 +1,104 @@
+br/com/aula/petsave/common/data/api/model/mappers/ApiVideoMapper_Factory.java
+ br.com.aula.petsave.common.data.api.model.mappers.ApiVideoMapper_Factory
+ br.com.aula.petsave.common.data.api.model.mappers.ApiVideoMapper_Factory$InstanceHolder
+br/com/aula/petsave/common/utils/CoroutineDispatchersProvider_Factory.java
+ br.com.aula.petsave.common.utils.CoroutineDispatchersProvider_Factory
+ br.com.aula.petsave.common.utils.CoroutineDispatchersProvider_Factory$InstanceHolder
+br/com/aula/petsave/common/databinding/RecyclerViewAnimalItemBinding.java
+ br.com.aula.petsave.common.databinding.RecyclerViewAnimalItemBinding
+br/com/aula/petsave/common/data/api/model/mappers/ApiHabitatAdaptationMapper_Factory.java
+ br.com.aula.petsave.common.data.api.model.mappers.ApiHabitatAdaptationMapper_Factory
+ br.com.aula.petsave.common.data.api.model.mappers.ApiHabitatAdaptationMapper_Factory$InstanceHolder
+br/com/aula/petsave/common/data/di/CacheModule_Companion_ProvideDatabaseFactory.java
+ br.com.aula.petsave.common.data.di.CacheModule_Companion_ProvideDatabaseFactory
+br/com/aula/petsave/common/data/FakeRepository_Factory.java
+ br.com.aula.petsave.common.data.FakeRepository_Factory
+ br.com.aula.petsave.common.data.FakeRepository_Factory$InstanceHolder
+br/com/aula/petsave/common/data/api/ConnectionManager_Factory.java
+ br.com.aula.petsave.common.data.api.ConnectionManager_Factory
+br/com/aula/petsave/common/data/di/CacheModule_Companion_ProvideOrganizationsDaoFactory.java
+ br.com.aula.petsave.common.data.di.CacheModule_Companion_ProvideOrganizationsDaoFactory
+br/com/aula/petsave/common/BuildConfig.java
+ br.com.aula.petsave.common.BuildConfig
+br/com/aula/petsave/common/Hilt_HiltTestActivity.java
+ br.com.aula.petsave.common.Hilt_HiltTestActivity
+ br.com.aula.petsave.common.Hilt_HiltTestActivity$1
+br/com/aula/petsave/common/data/api/model/mappers/ApiPhotoMapper_Factory.java
+ br.com.aula.petsave.common.data.api.model.mappers.ApiPhotoMapper_Factory
+ br.com.aula.petsave.common.data.api.model.mappers.ApiPhotoMapper_Factory$InstanceHolder
+br/com/aula/petsave/common/presentation/model/mappers/UiAnimalMapper_Factory.java
+ br.com.aula.petsave.common.presentation.model.mappers.UiAnimalMapper_Factory
+ br.com.aula.petsave.common.presentation.model.mappers.UiAnimalMapper_Factory$InstanceHolder
+br/com/aula/petsave/common/HiltTestActivity_GeneratedInjector.java
+ br.com.aula.petsave.common.HiltTestActivity_GeneratedInjector
+br/com/aula/petsave/common/data/api/model/mappers/ApiColorsMapper_Factory.java
+ br.com.aula.petsave.common.data.api.model.mappers.ApiColorsMapper_Factory
+ br.com.aula.petsave.common.data.api.model.mappers.ApiColorsMapper_Factory$InstanceHolder
+br/com/aula/petsave/common/data/api/interceptors/LoggingInterceptor_Factory.java
+ br.com.aula.petsave.common.data.api.interceptors.LoggingInterceptor_Factory
+ br.com.aula.petsave.common.data.api.interceptors.LoggingInterceptor_Factory$InstanceHolder
+hilt_aggregated_deps/_br_com_aula_petsave_common_di_ActivityRetainedModule.java
+ hilt_aggregated_deps._br_com_aula_petsave_common_di_ActivityRetainedModule
+br/com/aula/petsave/common/data/api/model/mappers/ApiPaginationMapper_Factory.java
+ br.com.aula.petsave.common.data.api.model.mappers.ApiPaginationMapper_Factory
+ br.com.aula.petsave.common.data.api.model.mappers.ApiPaginationMapper_Factory$InstanceHolder
+br/com/aula/petsave/common/data/cache/PetSaveDatabase_Impl.java
+ br.com.aula.petsave.common.data.cache.PetSaveDatabase_Impl
+ br.com.aula.petsave.common.data.cache.PetSaveDatabase_Impl$1
+br/com/aula/petsave/common/data/di/CacheModule_Companion_ProvideAnimalsDaoFactory.java
+ br.com.aula.petsave.common.data.di.CacheModule_Companion_ProvideAnimalsDaoFactory
+hilt_aggregated_deps/_br_com_aula_petsave_common_data_di_CacheModule.java
+ hilt_aggregated_deps._br_com_aula_petsave_common_data_di_CacheModule
+br/com/aula/petsave/common/data/api/model/mappers/ApiContactMapper_Factory.java
+ br.com.aula.petsave.common.data.api.model.mappers.ApiContactMapper_Factory
+br/com/aula/petsave/common/data/api/model/mappers/ApiBreedsMapper_Factory.java
+ br.com.aula.petsave.common.data.api.model.mappers.ApiBreedsMapper_Factory
+ br.com.aula.petsave.common.data.api.model.mappers.ApiBreedsMapper_Factory$InstanceHolder
+br/com/aula/petsave/common/data/api/model/mappers/ApiAnimalMapper_Factory.java
+ br.com.aula.petsave.common.data.api.model.mappers.ApiAnimalMapper_Factory
+hilt_aggregated_deps/_br_com_aula_petsave_common_HiltTestActivity_GeneratedInjector.java
+ hilt_aggregated_deps._br_com_aula_petsave_common_HiltTestActivity_GeneratedInjector
+hilt_aggregated_deps/_br_com_aula_petsave_common_data_di_ApiModule.java
+ hilt_aggregated_deps._br_com_aula_petsave_common_data_di_ApiModule
+hilt_aggregated_deps/_br_com_aula_petsave_common_data_di_PreferencesModule.java
+ hilt_aggregated_deps._br_com_aula_petsave_common_data_di_PreferencesModule
+br/com/aula/petsave/common/data/api/model/mappers/ApiAddressMapper_Factory.java
+ br.com.aula.petsave.common.data.api.model.mappers.ApiAddressMapper_Factory
+ br.com.aula.petsave.common.data.api.model.mappers.ApiAddressMapper_Factory$InstanceHolder
+br/com/aula/petsave/common/data/cache/RoomCache_Factory.java
+ br.com.aula.petsave.common.data.cache.RoomCache_Factory
+br/com/aula/petsave/common/data/api/model/mappers/ApiHealthDetailsMapper_Factory.java
+ br.com.aula.petsave.common.data.api.model.mappers.ApiHealthDetailsMapper_Factory
+ br.com.aula.petsave.common.data.api.model.mappers.ApiHealthDetailsMapper_Factory$InstanceHolder
+br/com/aula/petsave/common/data/api/interceptors/NetworkStatusInterceptor_Factory.java
+ br.com.aula.petsave.common.data.api.interceptors.NetworkStatusInterceptor_Factory
+com/raywenderlich/android/petsave/common/data/cache/daos/AnimalsDao_Impl.java
+ com.raywenderlich.android.petsave.common.data.cache.daos.AnimalsDao_Impl
+ com.raywenderlich.android.petsave.common.data.cache.daos.AnimalsDao_Impl$1
+ com.raywenderlich.android.petsave.common.data.cache.daos.AnimalsDao_Impl$2
+ com.raywenderlich.android.petsave.common.data.cache.daos.AnimalsDao_Impl$3
+ com.raywenderlich.android.petsave.common.data.cache.daos.AnimalsDao_Impl$4
+ com.raywenderlich.android.petsave.common.data.cache.daos.AnimalsDao_Impl$5
+ com.raywenderlich.android.petsave.common.data.cache.daos.AnimalsDao_Impl$6
+ com.raywenderlich.android.petsave.common.data.cache.daos.AnimalsDao_Impl$7
+ com.raywenderlich.android.petsave.common.data.cache.daos.AnimalsDao_Impl$8
+br/com/aula/petsave/common/data/cache/daos/OrganizationsDao_Impl.java
+ br.com.aula.petsave.common.data.cache.daos.OrganizationsDao_Impl
+ br.com.aula.petsave.common.data.cache.daos.OrganizationsDao_Impl$1
+br/com/aula/petsave/common/data/di/ApiModule_ProvideApiFactory.java
+ br.com.aula.petsave.common.data.di.ApiModule_ProvideApiFactory
+br/com/aula/petsave/common/data/preferences/PetSavePreferences_Factory.java
+ br.com.aula.petsave.common.data.preferences.PetSavePreferences_Factory
+br/com/aula/petsave/common/di/ActivityRetainedModule_Companion_ProvideCompositeDisposableFactory.java
+ br.com.aula.petsave.common.di.ActivityRetainedModule_Companion_ProvideCompositeDisposableFactory
+ br.com.aula.petsave.common.di.ActivityRetainedModule_Companion_ProvideCompositeDisposableFactory$InstanceHolder
+br/com/aula/petsave/common/data/di/ApiModule_ProvideOkHttpClientFactory.java
+ br.com.aula.petsave.common.data.di.ApiModule_ProvideOkHttpClientFactory
+br/com/aula/petsave/common/data/di/ApiModule_ProvideRetrofitFactory.java
+ br.com.aula.petsave.common.data.di.ApiModule_ProvideRetrofitFactory
+br/com/aula/petsave/common/data/di/ApiModule_ProvideHttpLoggingInterceptorFactory.java
+ br.com.aula.petsave.common.data.di.ApiModule_ProvideHttpLoggingInterceptorFactory
+br/com/aula/petsave/common/data/api/interceptors/AuthenticationInterceptor_Factory.java
+ br.com.aula.petsave.common.data.api.interceptors.AuthenticationInterceptor_Factory
+br/com/aula/petsave/common/data/PetFinderAnimalRepository_Factory.java
+ br.com.aula.petsave.common.data.PetFinderAnimalRepository_Factory

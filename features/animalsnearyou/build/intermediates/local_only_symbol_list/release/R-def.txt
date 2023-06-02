@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id animalsNearYouFragment
+id animals_recycler_view
+id fragment_animals_near_you_container
+id nav_animalsnearyou
+id progress_bar
+layout fragment_animals_near_you
+navigation nav_animalsnearyou
+string animals_near_you
+string animals_near_you_screen_label

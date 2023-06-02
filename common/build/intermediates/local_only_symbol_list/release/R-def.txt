@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+dimen animals_near_you_image_height
+dimen default_card_corner_radius
+dimen default_card_size
+dimen default_margin
+dimen half_default_margin
+dimen small_margin
+drawable dog_placeholder
+id name
+id photo
+id recycler_view_item
+id recycler_view_item_container
+layout recycler_view_animal_item
+string an_error_occurred
+string photo_description
+style AppTheme

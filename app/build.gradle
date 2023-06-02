@@ -36,6 +36,10 @@ android {
         }
     }
 
+    packagingOptions {
+        resources.excludes.add("META-INF/*")
+    }
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
@@ -141,6 +145,8 @@ dependencies {
 
     // Utils
     implementation "org.threeten:threetenbp:$threetenabp_version"
+    implementation 'com.facebook.stetho:stetho:1.5.1'
+    implementation 'com.facebook.stetho:stetho-okhttp3:1.5.1'
 
 
     debugImplementation "com.squareup.leakcanary:leakcanary-android:$leakcanary_version"

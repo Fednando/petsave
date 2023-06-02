@@ -1,0 +1,35 @@
+br/com/aula/petsave/search/presentation/SearchFragmentViewModel_HiltModules.java
+ br.com.aula.petsave.search.presentation.SearchFragmentViewModel_HiltModules
+ br.com.aula.petsave.search.presentation.SearchFragmentViewModel_HiltModules$BindsModule
+ br.com.aula.petsave.search.presentation.SearchFragmentViewModel_HiltModules$KeyModule
+br/com/aula/petsave/search/presentation/Hilt_SearchFragment.java
+ br.com.aula.petsave.search.presentation.Hilt_SearchFragment
+br/com/aula/petsave/search/presentation/SearchFragmentViewModel_HiltModules_KeyModule_ProvideFactory.java
+ br.com.aula.petsave.search.presentation.SearchFragmentViewModel_HiltModules_KeyModule_ProvideFactory
+ br.com.aula.petsave.search.presentation.SearchFragmentViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+hilt_aggregated_deps/_br_com_aula_petsave_search_presentation_SearchFragmentViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._br_com_aula_petsave_search_presentation_SearchFragmentViewModel_HiltModules_KeyModule
+br/com/aula/petsave/search/BuildConfig.java
+ br.com.aula.petsave.search.BuildConfig
+hilt_aggregated_deps/_br_com_aula_petsave_search_presentation_SearchFragment_GeneratedInjector.java
+ hilt_aggregated_deps._br_com_aula_petsave_search_presentation_SearchFragment_GeneratedInjector
+br/com/aula/petsave/search/presentation/SearchFragmentViewModel_Factory.java
+ br.com.aula.petsave.search.presentation.SearchFragmentViewModel_Factory
+br/com/aula/petsave/search/databinding/DropdownMenuPopupItemBinding.java
+ br.com.aula.petsave.search.databinding.DropdownMenuPopupItemBinding
+br/com/aula/petsave/search/databinding/FragmentSearchBinding.java
+ br.com.aula.petsave.search.databinding.FragmentSearchBinding
+br/com/aula/petsave/search/domain/usecases/GetSearchFilters_Factory.java
+ br.com.aula.petsave.search.domain.usecases.GetSearchFilters_Factory
+br/com/aula/petsave/search/databinding/ExposedDropdownMenuBinding.java
+ br.com.aula.petsave.search.databinding.ExposedDropdownMenuBinding
+br/com/aula/petsave/petsave/search/domain/usecases/SearchAnimals_Factory.java
+ br.com.aula.petsave.petsave.search.domain.usecases.SearchAnimals_Factory
+br/com/aula/petsave/search/domain/usecases/SearchAnimalsRemotely_Factory.java
+ br.com.aula.petsave.search.domain.usecases.SearchAnimalsRemotely_Factory
+br/com/aula/petsave/search/presentation/SearchFragment_GeneratedInjector.java
+ br.com.aula.petsave.search.presentation.SearchFragment_GeneratedInjector
+br/com/aula/petsave/search/databinding/FilteredSearchWidgetBinding.java
+ br.com.aula.petsave.search.databinding.FilteredSearchWidgetBinding
+hilt_aggregated_deps/_br_com_aula_petsave_search_presentation_SearchFragmentViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._br_com_aula_petsave_search_presentation_SearchFragmentViewModel_HiltModules_BindsModule

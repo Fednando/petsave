@@ -1,0 +1,90 @@
+-if class br.com.aula.petsave.common.data.api.model.ApiVideoLink
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiVideoLink
+-if class br.com.aula.petsave.common.data.api.model.ApiVideoLink
+-keep class br.com.aula.petsave.common.data.api.model.ApiVideoLinkJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiPaginatedAnimals
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiPaginatedAnimals
+-if class br.com.aula.petsave.common.data.api.model.ApiPaginatedAnimals
+-keep class br.com.aula.petsave.common.data.api.model.ApiPaginatedAnimalsJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiColors
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiColors
+-if class br.com.aula.petsave.common.data.api.model.ApiColors
+-keep class br.com.aula.petsave.common.data.api.model.ApiColorsJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiAddress
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiAddress
+-if class br.com.aula.petsave.common.data.api.model.ApiAddress
+-keep class br.com.aula.petsave.common.data.api.model.ApiAddressJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiPagination
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiPagination
+-if class br.com.aula.petsave.common.data.api.model.ApiPagination
+-keep class br.com.aula.petsave.common.data.api.model.ApiPaginationJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiToken
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiToken
+-if class br.com.aula.petsave.common.data.api.model.ApiToken
+-keep class br.com.aula.petsave.common.data.api.model.ApiTokenJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+-if class br.com.aula.petsave.common.data.api.model.ApiToken
+-keepnames class kotlin.jvm.internal.DefaultConstructorMarker
+-if class br.com.aula.petsave.common.data.api.model.ApiToken
+-keepclassmembers class br.com.aula.petsave.common.data.api.model.ApiToken {
+    public synthetic <init>(java.lang.String,java.lang.Integer,java.lang.String,int,kotlin.jvm.internal.DefaultConstructorMarker);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiAttributes
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiAttributes
+-if class br.com.aula.petsave.common.data.api.model.ApiAttributes
+-keep class br.com.aula.petsave.common.data.api.model.ApiAttributesJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiContact
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiContact
+-if class br.com.aula.petsave.common.data.api.model.ApiContact
+-keep class br.com.aula.petsave.common.data.api.model.ApiContactJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiPhotoSizes
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiPhotoSizes
+-if class br.com.aula.petsave.common.data.api.model.ApiPhotoSizes
+-keep class br.com.aula.petsave.common.data.api.model.ApiPhotoSizesJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiEnvironment
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiEnvironment
+-if class br.com.aula.petsave.common.data.api.model.ApiEnvironment
+-keep class br.com.aula.petsave.common.data.api.model.ApiEnvironmentJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiAnimal
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiAnimal
+-if class br.com.aula.petsave.common.data.api.model.ApiAnimal
+-keep class br.com.aula.petsave.common.data.api.model.ApiAnimalJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class br.com.aula.petsave.common.data.api.model.ApiBreeds
+-keepnames class br.com.aula.petsave.common.data.api.model.ApiBreeds
+-if class br.com.aula.petsave.common.data.api.model.ApiBreeds
+-keep class br.com.aula.petsave.common.data.api.model.ApiBreedsJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_popup_enter.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/design_snackbar_in.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/design_snackbar_out.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_fade_in.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/mtrl_card_lowers_interpolator.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/anim/mtrl_card_lowers_interpolator.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/nav_default_pop_exit_anim.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/f43de61de48f2667c441c578a317565d/transformed/navigation-ui-2.3.1/res/anim/nav_default_pop_exit_anim.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/nav_default_enter_anim.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/f43de61de48f2667c441c578a317565d/transformed/navigation-ui-2.3.1/res/anim/nav_default_enter_anim.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/nav_default_exit_anim.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/f43de61de48f2667c441c578a317565d/transformed/navigation-ui-2.3.1/res/anim/nav_default_exit_anim.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_fade_out.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_popup_exit.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/onboarding/build/intermediates/merged_res/release/anim/nav_default_pop_enter_anim.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/f43de61de48f2667c441c578a317565d/transformed/navigation-ui-2.3.1/res/anim/nav_default_pop_enter_anim.xml"
+    }
+]

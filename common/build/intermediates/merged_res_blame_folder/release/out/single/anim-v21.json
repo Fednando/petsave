@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/release/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/release/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/b854bd57f9231982c9acb205b6e7df26/transformed/fragment-1.3.2/res/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/release/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/merged_res/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

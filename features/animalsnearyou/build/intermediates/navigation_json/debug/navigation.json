@@ -1,0 +1,31 @@
+[
+  {
+    "name": "nav_animalsnearyou",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "petsave"
+        ],
+        "host": "animalsnearyou",
+        "port": -1,
+        "path": "/",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mFilePath": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/src/main/res/navigation/nav_animalsnearyou.xml",
+            "mDescription": "nav_animalsnearyou"
+          },
+          "mSourcePosition": {
+            "mStartLine": 12,
+            "mStartColumn": 4,
+            "mStartOffset": 574,
+            "mEndLine": 12,
+            "mEndColumn": 51,
+            "mEndOffset": 621
+          }
+        },
+        "isAutoVerify": false
+      }
+    ]
+  }
+]

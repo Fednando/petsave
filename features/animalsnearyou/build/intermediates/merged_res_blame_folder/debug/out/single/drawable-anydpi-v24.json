@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/drawable-anydpi-v24/leak_canary_tv_icon.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/drawable-anydpi-v24/leak_canary_tv_icon.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/drawable-anydpi-v24/leak_canary_icon_foreground.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/drawable-anydpi-v24/leak_canary_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/drawable-anydpi-v24/leak_canary_icon.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/drawable-anydpi-v24/leak_canary_icon.xml"
+    }
+]

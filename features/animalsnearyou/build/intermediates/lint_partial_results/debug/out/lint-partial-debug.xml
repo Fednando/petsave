@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.0.0" type="partial_results">
+    <map id="MediaCapabilities">
+        <entry
+            name="hasVideoUsage"
+            boolean="true"/>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.navigation.nav_animalsnearyou"
+            file="$FEATURES_ANIMALSNEARYOU/src/main/res/navigation/nav_animalsnearyou.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="15"
+            endColumn="14"
+            endOffset="658"/>
+        <location id="R.string.animals_near_you_screen_label"
+            file="$FEATURES_ANIMALSNEARYOU/src/main/res/values/strings.xml"
+            line="3"
+            column="11"
+            startOffset="74"
+            endLine="3"
+            endColumn="47"
+            endOffset="110"/>
+        <location id="R.string.animals_near_you"
+            file="$FEATURES_ANIMALSNEARYOU/src/main/res/values/strings.xml"
+            line="2"
+            column="11"
+            startOffset="22"
+            endLine="2"
+            endColumn="34"
+            endOffset="45"/>
+        <entry
+            name="model"
+            string="dimen[half_default_margin(R)],id[nav_animalsnearyou(D),progress_bar(D),animalsNearYouFragment(U),fragment_animals_near_you_container(D),animals_recycler_view(D)],layout[recycler_view_animal_item(R),fragment_animals_near_you(U)],navigation[nav_animalsnearyou(D)],string[animals_near_you_screen_label(D),animals_near_you(D),an_error_occurred(R)];7^0^6,8^3^9^7;;;"/>
+    </map>
+
+</incidents>

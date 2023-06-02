@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    }
+]

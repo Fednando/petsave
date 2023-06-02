@@ -35,6 +35,7 @@
 package br.com.aula.petsave
 
 import android.app.Application
+import com.facebook.stetho.Stetho
 import com.raywenderlich.android.logging.Logger
 import dagger.hilt.android.HiltAndroidApp
 
@@ -46,6 +47,7 @@ class PetSaveApplication: Application() {
   override fun onCreate() {
     super.onCreate()
 
+    Stetho.initializeWithDefaults(this);
     initLogger()
   }
 

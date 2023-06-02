@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.com.aula.petsave.common" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="23"
+7        android:targetSdkVersion="29" />
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->/Users/fernando/Documents/android/aulas/PetSave/common/src/debug/AndroidManifest.xml:4:3-65
+9-->/Users/fernando/Documents/android/aulas/PetSave/common/src/debug/AndroidManifest.xml:4:20-62
+10    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+10-->/Users/fernando/Documents/android/aulas/PetSave/common/src/main/AndroidManifest.xml:5:5-79
+10-->/Users/fernando/Documents/android/aulas/PetSave/common/src/main/AndroidManifest.xml:5:22-76
+11
+12    <application android:usesCleartextTraffic="true" />
+12-->/Users/fernando/Documents/android/aulas/PetSave/common/src/debug/AndroidManifest.xml:5:3-54
+12-->/Users/fernando/Documents/android/aulas/PetSave/common/src/debug/AndroidManifest.xml:5:16-51
+13
+14</manifest>

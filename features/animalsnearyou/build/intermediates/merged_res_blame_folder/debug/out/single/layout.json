@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/test_action_chip.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/test_action_chip.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_calendar_vertical.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_calendar_vertical.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/text_view_without_line_height.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/text_view_without_line_height.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/test_design_checkbox.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/test_design_checkbox.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_picker_dialog.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_picker_text_input_date_range.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_picker_text_input_date_range.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_alert_select_dialog_item.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_alert_select_dialog_item.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_calendar_month_navigation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_calendar_month_navigation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_picker_actions.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_picker_actions.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/test_toolbar_elevation.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/test_toolbar_elevation.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_calendar_month_labeled.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_calendar_month_labeled.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_simple_row.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_simple_row.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_leak_row.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/test_toolbar_custom_background.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/test_toolbar_custom_background.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/text_view_with_theme_line_height.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/text_view_with_theme_line_height.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_calendar_horizontal.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_calendar_horizontal.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_heap_analysis_failure_screen.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_heap_analysis_failure_screen.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_heap_dumps_screen.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_heap_dumps_screen.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/text_view_with_line_height_from_style.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/text_view_with_line_height_from_style.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/text_view_with_line_height_from_layout.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/text_view_with_line_height_from_layout.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_hprof_explorer.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_hprof_explorer.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_animals_near_you.xml",
+        "source": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/src/main/res/layout/fragment_animals_near_you.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_heap_dump_leak_title.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_heap_dump_leak_title.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/test_toolbar.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/test_toolbar.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_navigation_item.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_tooltip.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/test_design_radiobutton.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/test_design_radiobutton.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/test_reflow_chipgroup.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/test_reflow_chipgroup.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_about_screen.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_about_screen.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_search_view.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/test_toolbar_surface.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/test_toolbar_surface.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_heap_render.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_heap_render.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/ce9d278649c8b4bfd56093f3abac1fe8/transformed/core-1.3.2/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_leak_activity.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_leak_activity.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_picker_header_fullscreen.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_picker_header_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_text_input_end_icon.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_text_input_end_icon.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/test_chip_zero_corner_radius.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/test_chip_zero_corner_radius.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_heap_dump_toast.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_calendar_day.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_calendar_day.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_alert_select_dialog_singlechoice.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_alert_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/fragment_animals_near_you.xml",
+        "source": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/src/main/res/layout/fragment_animals_near_you.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_alert_dialog_title.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_alert_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_leak_header.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_leak_header.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_picker_header_dialog.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_ref_row.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_alert_dialog.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_calendar_month.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_picker_header_toggle.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_picker_header_toggle.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_calendar_months.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_calendar_months.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_leak_chips.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_leak_chips.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_calendar_day_of_week.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_calendar_day_of_week.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_alert_dialog_actions.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_picker_fullscreen.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_picker_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_picker_header_selection_text.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_picker_header_selection_text.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_picker_header_title_text.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_picker_header_title_text.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_picker_text_input_date.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_picker_text_input_date.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_leak_screen.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_leak_screen.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_calendar_year.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_calendar_year.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_alert_select_dialog_multichoice.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_alert_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_calendar_days_of_week.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_calendar_days_of_week.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/leak_canary_list.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/94767b848013dbe4b365d320e64ecf24/transformed/jetified-leakcanary-android-core-2.4/res/layout/leak_canary_list.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_text_input_start_icon.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_text_input_start_icon.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_layout_snackbar.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/custom_dialog.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/ce9d278649c8b4bfd56093f3abac1fe8/transformed/core-1.3.2/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/recycler_view_animal_item.xml",
+        "source": "/Users/fernando/Documents/android/aulas/PetSave/common/build/intermediates/packaged_res/debug/layout/recycler_view_animal_item.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/mtrl_layout_snackbar_include.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/ce9d278649c8b4bfd56093f3abac1fe8/transformed/core-1.3.2/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/animalsnearyou/build/intermediates/merged_res/debug/layout/text_view_with_line_height_from_appearance.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/layout/text_view_with_line_height_from_appearance.xml"
+    }
+]

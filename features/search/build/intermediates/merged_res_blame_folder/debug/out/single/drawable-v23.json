@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/search/build/intermediates/merged_res/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/a73898d4955ce249ce32236a3a8552f8/transformed/appcompat-1.2.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/search/build/intermediates/merged_res/debug/drawable-v23/mtrl_popupmenu_background_dark.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/drawable-v23/mtrl_popupmenu_background_dark.xml"
+    }
+]

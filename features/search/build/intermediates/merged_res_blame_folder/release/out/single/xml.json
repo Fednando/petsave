@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/search/build/intermediates/merged_res/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/search/build/intermediates/merged_res/release/xml/standalone_badge.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/search/build/intermediates/merged_res/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/search/build/intermediates/merged_res/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/fernando/Documents/android/aulas/PetSave/features/search/build/intermediates/merged_res/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/fernando/.gradle/caches/transforms-3/45d240ef486734f0647e48fb2ffaa4bb/transformed/material-1.2.1/res/xml/standalone_badge_gravity_top_start.xml"
+    }
+]
